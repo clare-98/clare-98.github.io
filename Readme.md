@@ -10,10 +10,8 @@
 
 ### Website Preview
 #### Home Page
-<video width="900" controls autoplay>
-    <source src="https://github.com/clare-98/portfolio-showcase/raw/main/media/video.mp4" type="video/mp4">
-    Your browser does not support video tag
-</video>
+<img src="media/video.gif" width="900">
+
 
 #### About Page
 <img src="website_images/AboutPage.png" width="900">
